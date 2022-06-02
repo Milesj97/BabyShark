@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Cage Maintenance " max_length="40" name="x_cdltd_baby_shark_cage_maintenance" sizeclass="0" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Cage Maintenance" max_length="100" name="cage_maintenance" type="string"/>
+        <element attributes="omit_sys_original=true" label="Labor expenses" max_length="20" name="labor_expenses" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" label="Type of Maintenance Performed" max_length="100" name="maintenance_performed" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Skills Needed" max_length="100" name="skills_needed" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="edge_encryption_enabled=true" label="Technician Used" max_length="100" name="technician_used" type="string"/>
+        <element label="Number of times maintenaced" max_length="40" name="times_maintenaced" type="integer"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

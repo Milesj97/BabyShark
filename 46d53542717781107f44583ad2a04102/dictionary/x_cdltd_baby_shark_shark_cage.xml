@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Shark Cage" max_length="40" name="x_cdltd_baby_shark_shark_cage" sizeclass="0" type="collection">
+        <element choice="1" label="Cages In Stock" max_length="40" name="cages_in_stock" type="integer">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Cage Material" max_length="40" name="cage_material" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Vibranium" sequence="0" value="vibranium"/>
+                <element inactive_on_update="false" label="Tin Foil" sequence="1" value="tin foil"/>
+                <element inactive_on_update="false" label="Granite" sequence="2" value="granite"/>
+                <element inactive_on_update="false" label="Marble" sequence="3" value="marble"/>
+            </choice>
+        </element>
+        <element label="Cage Size(sqft)" max_length="40" name="cage_size" type="integer"/>
+        <element label="Divers per Cage" max_length="40" name="divers_per_cage" type="integer"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

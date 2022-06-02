@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sc_request" label="Cage Request" max_length="40" name="x_cdltd_baby_shark_cage_request" sizeclass="0" type="collection">
+        <element attributes="encode_utf8=false" label="Person Fulfilling" max_length="32" name="person_fulfilling" reference="sys_user" type="reference"/>
+        <element attributes="encode_utf8=false" label="Person Requesting" max_length="32" name="person_requesting" reference="sys_user" type="reference"/>
+    </element>
+</database>

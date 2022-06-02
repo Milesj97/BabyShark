@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="a78e794a717781107f44583ad2a041be" sys_domain="global" table="x_cdltd_baby_shark_cage_maintenance" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>maintenance_performed</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-01 19:59:18</sys_created_on>
+            <sys_id>af8ef18a717781107f44583ad2a0412a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_cdltd_baby_shark_cage_maintenance" sys_domain="global" view="Default view">a78e794a717781107f44583ad2a041be</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-01 19:59:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cage_maintenance</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-01 19:59:18</sys_created_on>
+            <sys_id>a78ef18a717781107f44583ad2a0412b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_cdltd_baby_shark_cage_maintenance" sys_domain="global" view="Default view">a78e794a717781107f44583ad2a041be</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-01 19:59:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>times_maintenaced</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-01 19:59:18</sys_created_on>
+            <sys_id>2b8ef18a717781107f44583ad2a0412b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_cdltd_baby_shark_cage_maintenance" sys_domain="global" view="Default view">a78e794a717781107f44583ad2a041be</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-01 19:59:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>skills_needed</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-01 19:59:18</sys_created_on>
+            <sys_id>ab8ef18a717781107f44583ad2a0412b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_cdltd_baby_shark_cage_maintenance" sys_domain="global" view="Default view">a78e794a717781107f44583ad2a041be</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-01 19:59:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>labor_expenses</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-01 19:59:18</sys_created_on>
+            <sys_id>2f8ef18a717781107f44583ad2a0412b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_cdltd_baby_shark_cage_maintenance" sys_domain="global" view="Default view">a78e794a717781107f44583ad2a041be</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-01 19:59:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>technician_used</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-01 19:59:18</sys_created_on>
+            <sys_id>af8ef18a717781107f44583ad2a0412b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_cdltd_baby_shark_cage_maintenance" sys_domain="global" view="Default view">a78e794a717781107f44583ad2a041be</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-01 19:59:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_cdltd_baby_shark_cage_maintenance</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-01 19:59:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a78e794a717781107f44583ad2a041be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_cdltd_baby_shark_cage_maintenance</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Baby Shark" source="x_cdltd_baby_shark">46d53542717781107f44583ad2a04102</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Baby Shark">46d53542717781107f44583ad2a04102</sys_scope>
+            <sys_update_name>sys_ui_section_a78e794a717781107f44583ad2a041be</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-01 19:59:18</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
